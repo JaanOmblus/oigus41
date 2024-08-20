@@ -1,0 +1,11 @@
+<div class="chat container">
+  <div *ngFor="let msg of session">
+    <robot-msg
+      [message]="msg"
+      (eventOptionSelected)="onOptionSelected($event)"
+    ></robot-msg>
+  </div>
+  
+  <div class="msg-writing" *ngIf="writing">Mõtlen pisut...</div>
+  </div>
+  <br>

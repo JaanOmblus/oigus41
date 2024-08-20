@@ -1,0 +1,75 @@
+.asukoht {
+  padding-left: 10px;
+  margin-left: -210px;
+  margin-top: -40px;
+  margin-bottom: -20px;
+  
+  }   
+
+  .yld1-chart {
+    height: 400px;
+    padding-left: 0px;
+    width: 720px;
+    background-position: right;
+    
+  }
+
+  .tooltip-key {
+    width: 20px;
+    color: red;
+    word-break: break-word;
+    white-space: normal;
+  }
+
+  .nupp button {
+    /**margin-left: 20px;**/
+    display: block;
+    margin-left: 40px;
+    margin-top: -5px;
+    line-height: 24px;	
+    background: #005AA3;
+    color: white;
+    font-size: 16px;
+    border-radius: 20px;
+    width: 200px;
+    min-height: 43px;
+    /*padding-left: 22px;*/
+    align-content: center;
+    
+    
+  
+    &:hover {
+      color: rgb(255, 128, 0);
+      font-size: 16px;
+      background-color: rgb(0, 66, 119);
+    }
+  
+    .label {
+      white-space: nowrap;
+      overflow: hidden;
+      color: red;
+    }
+  
+  
+  }  
+
+  .tekstike {
+    /*position: relative;*/
+    /*width: 1034px;*/
+    /*height: 48px;*/
+    /*padding-top: 22px;*/
+    padding-left: 0px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #4f4f4f; /* #09090b;*/
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: -60px;
+  }   
+  
+  .tekstikeB {
+    font-size: 28px;
+  }

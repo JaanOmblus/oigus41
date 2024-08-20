@@ -1,0 +1,735 @@
+.css-typing p {
+  /*border-right: .15em solid orange;*/
+  /*border-right: 0px;*/
+  font-family: "Courier";
+  /*font-size: 14px;*/
+  white-space: nowrap;
+  overflow: hidden;
+  margin-left: 20px;
+}
+.css-typing p:nth-child(1) {
+  width: 240px;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: italic;
+  -webkit-animation: type 2s steps(40, end);
+  animation: type 2s steps(40, end);
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.css-typing p:nth-child(2) { /*Tartu Maakohus*/
+  width: 160px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type2 2s steps(40, end);
+  animation: type2 2s steps(40, end);
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(3) { /*Tartu Kohtumaja*/
+  width: 160px;
+  margin-top: -40px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(4) { /*Tartu Maakohus*/
+  width: 160px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 4s;
+  animation-delay: 4s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(5) { /*Kalevi 1*/
+  width: 160px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 6s;
+  animation-delay: 6s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(6) { /*50092 Tartu*/
+  width: 160px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 8s;
+  animation-delay: 8s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(7) { /*Hageja Toomas Mets*/
+  width: 270px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 10s;
+  animation-delay: 10s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(8) { /*Metsaküla 12*/
+  width: 290px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 12s;
+  animation-delay: 12s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(9) { /*66677 Võrumaa*/
+  width: 290px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 14s;
+  animation-delay: 14s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(10) { /*Kostja Tõnu Põld*/
+  width: 270px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 16s;
+  animation-delay: 16s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(11) { /*Peenravahe 28*/
+  width: 290px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 18s;
+  animation-delay: 18s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(12) { /*55444 Viljandi*/
+  width: 310px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 20s;
+  animation-delay: 20s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(13) { /*22. august 2024.a.*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 22s;
+  animation-delay: 22s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(14) { /*HAGIAVALDUS*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 24s;
+  animation-delay: 24s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(15) { /*Hagi nõue*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 26s;
+  animation-delay: 26s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(16) { /*Mõista kostjalt välja 2300 eurot.*/
+  width: 340px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 28s;
+  animation-delay: 28s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(17) { /*Hagi hind*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 30s;
+  animation-delay: 30s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(18) { /*2300 eurot.*/
+  width: 340px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 32s;
+  animation-delay: 32s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(19) { /*Riigilõiv hagilt*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 34s;
+  animation-delay: 34s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(20) { /*120 eurot.*/
+  width: 340px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 36s;
+  animation-delay: 36s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(21) { /*Faktilised asjaolud*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 38s;
+  animation-delay: 38s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(22) { /*7. märtsil 2015.a. notaribüroos sõlmitud*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 40s;
+  animation-delay: 40s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(23) { /*müügilepingus on esitatud eksitavaid*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 42s;
+  animation-delay: 42s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(24) { /*andmeid, millest tulenevalt taotlen lepingu*/
+  width: 420px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 44s;
+  animation-delay: 44s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(25) { /*tühistamist tulenevalt TsÜS § 90 lg 1.*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 46s;
+  animation-delay: 46s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(26) { /*Müüja on ilmselgelt eksitanud tahtlikult*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 48s;
+  animation-delay: 48s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(27) { /*põhjustades mulle varalist kahju.*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 50s;
+  animation-delay: 50s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(28) { /*TsÜS § 90 lg 1 sätestab, et tehing, mis*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 52s;
+  animation-delay: 52s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(29) { /*on tehtud pettuse mõjul, võib seaduses*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 54s;
+  animation-delay: 54s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(30) { /* sätestatud korras tühistada.*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 56s;
+  animation-delay: 56s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(31) { /*Nõude õiguslik alus*/
+  width: 340px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 58s;
+  animation-delay: 58s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(32) { /* TsÜS § 90 lg 2 sätestab, et tühistatud*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 60s;
+  animation-delay: 60s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(33) { /*tehingu järgi saadu tuleb tagastada. */
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 62s;
+  animation-delay: 62s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(34) { /*Tulenevalt sellest peab kostja mulle*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 64s;
+  animation-delay: 64s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(35) { /*tagastama 2300 eurot.*/
+  width: 400px;
+  margin-top: -12px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 66s;
+  animation-delay: 66s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(36) { /*Lähtudes eelpooltoodust ja juhindudes*/
+  width: 400px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 68s;
+  animation-delay: 68s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(37) { /*TsÜS § 90 lg 1 ja TsÜS § 90 lg 2 palun:*/
+  width: 400px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 70s;
+  animation-delay: 70s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(38) { /*1. Võtta käesolev hagiavaldus menetlusse.*/
+  width: 400px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 72s;
+  animation-delay: 72s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(39) { /*2. Mõista kostjalt välja 2300 eurot.*/
+  width: 400px;
+  margin-top: -16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 74s;
+  animation-delay: 74s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(40) { /*Lugupidamisega,*/
+  width: 290px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 76s;
+  animation-delay: 76s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+.css-typing p:nth-child(41) { /*Toomas Mets*/
+  width: 290px;
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 78s;
+  animation-delay: 78s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  /*word-wrap: break-word;*/ 
+}
+
+/*
+
+.css-typing p:nth-child(4) {
+  width: 400px;
+  opacity: 0;
+  -webkit-animation: type3 2s steps(40, end);
+  animation: type3 2s steps(40, end);
+  -webkit-animation-delay: 2s;
+  animation-delay: 6s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  word-wrap: break-word; 
+}
+
+*/
+/*.css-typing p:nth-child(3) {
+  width: 7.3em;
+  opacity: 0;
+  -webkit-animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
+  animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
+  -webkit-animation-delay: 4s;
+  animation-delay: 4s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}*/
+
+@keyframes type {
+  0% {
+    width: 0;
+  }
+  99.9% {
+    border-right: .15em solid orange;
+  }
+  100% {
+    border: none;
+  }
+}
+
+@-webkit-keyframes type {
+  0% {
+    width: 0;
+  }
+  99.9% {
+    border-right: .15em solid orange;
+  }
+  100% {
+    border: none;
+  }
+}
+
+@keyframes type2 {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  99.9% {
+    border-right: .15em solid orange;
+  }
+  100% {
+    opacity: 1;
+    border: none;
+  }
+}
+
+@-webkit-keyframes type2 {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  99.9% {
+    border-right: .15em solid orange;
+  }
+  100% {
+    opacity: 1;
+    border: none;
+  }
+}
+
+@keyframes type3 {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes type3 {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+@-webkit-keyframes blink {
+  50% {
+    border-color: tranparent;
+  }
+}
